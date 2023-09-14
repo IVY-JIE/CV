@@ -1,0 +1,115 @@
+---
+output: html_document
+---
+
+```{r start, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Jie Wu
+
+**Date of Birth:** 24/7/2000
+
+**E-mail:** ivy.jie.wu\@gmail.com/12133161\@mail.sustech.edu.cn
+
+**Tel:** +86-13037374209
+
+**School:** Southern University of Science and Technology(SUSTech), school of medicine
+
+## [PERSONAL STATEMENT]{.underline}
+
+A dedicated, detailed and capable research fellow with three years of experience in virology research, and interested in pursuing a Ph.D. in virology with related expertise in experiment skills and the ability to relatively consider and solve problems independently.
+
+## [EDUCATION]{.underline}
+
+M.Sc in School of Medicine, SUSTech 09.2021-present
+
+Supervisor: Prof. Yang Fu Email: fuy\@sustech.edu.cn
+
+Grade Point Average: 3.53/4.00
+
+B.Sc in Biotechnology, HuNan University-HNU 09.2017-06.2021
+
+Mentor: Prof. Yonghua Zhu Email:
+
+Grad Point Average: 3.41/4.00
+
+## [SELECTED HONOURS]{.underline}
+
+### Academic:
+
+Outstanding Graduation Thesis, HuNan Universitey 2021
+
+Third prize in China Undergraduate Mathematical Contest in Modeling 2020
+
+Third prize in China Undergraduate Life Science Contest CULSC 2020
+
+The Third Prize Scholarship(2 times) 2019,2020
+
+Excellent Camper Award, Wuhan Institute of Virology Summer Camp 2020
+
+### Extracurricular:
+
+Outstanding Athlete, 20th Sports Meet, HuNan University 2019
+
+## [RESEARCH EXPERIENCE]{.underline}
+
+Graduate Research in Lab For Immunity for infection, SUSTech
+
+**Project 1: Mechanistic Study of E3 Ligase TRIM14 inhibiton on the Degradation of SARS-CoV-2 Spike Protein（Co-first author，manuscript in preparation）**
+
+• screening and indentify E3 ligases which is responsible for spike
+
+• exploreing the effect of TRIM14 to Spike（TRIM14 inhibit the degradation and promote its expression of Spike to augment its virulence ）
+
+• Finding out spike main degradation mechanism-Selective autophagy degradation mediated by cargo receptor P62
+
+**Project 2: SARS-CoV-2 Membrane protein regulates the cleavage of Spike by inhibiting its cytoplasm distribution and enzymatic activity of Furin**
+
+• exploreing the interaction between Spike and other viral proteins of SARS-CoV-2
+
+• Screening the impact of M protein on multiple Spike variants
+
+**Project 3: Mechanistic Study of Monkeypox Virus protein-CRMB inbition of TNF Funtion**
+
+Undergraduate Research in Lab for Plant-Microbe Interactions, HuNan University 2019-2020
+
+**The Rice Endophyte-Derived a-Mannosidase ShAM1 Degrades Host Cell Walls To Activate DAMP-Triggered Immunity against Disease（Co-author，submitted）**
+
+Isolation, screening, cloning and characterization of plant immune elicitor from rice endophyte *Streptomyces hygroscopicus* OsiSh-2
+
+## [TEACHING EXPERIENCE]{.underline}
+
+Teaching Assistant, Preventive Medicine , SUSTech
+
+## [PROFESSIONAL SKILLS]{.underline}
+
+Molecular Clone, Western Blot, qRT-PCR, etc.
+
+Cell Line Maintenance, Virus Propagation and Titration, Primary Cell Culture, Teansfection and Transduction etc.
+
+CRISPR-Cas9 Genome Editing.
+
+Fluorescence Microscopy, Confocal Microscopy (Zeiss LSM900).
+
+Protein Expression and purification and related techniques (GE health AKTA pure system).
+
+Enzyme-Linked Immunosorbent Assay (ELISA), Flow Cytometry, Immunoflurescence.
+
+Mammal cells transfection and protein expreession system
+
+Handling and Manipulation of Experimental Animals, .
+
+Negative stain and general electron microscope ample preparation.
+
+Proficient in specialized software like Endnote, Snapgene, Prism8, Photoshop, etc.
+
+Graphing and Visualization of Experimental Results.
+
+Enable to relatively consider and solve problems independently.
+
+Enable to write academic papers.
+
+## [LANGUAGE PROFICIENCY]{.underline}
+
+English: ILETs: 6.5(6.0)
